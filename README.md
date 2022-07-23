@@ -42,4 +42,4 @@ ScratchFontCreationTool wouldn't have been possible without these Node.js packag
 
 ## To-do
 1) Generate entire sprites rather than costumes
-2) Create a web app
+2) Replace the CLI with a web app
