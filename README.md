@@ -7,11 +7,19 @@ Download a release for your operating system, place a font file beside the execu
 ### [Windows](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/Linux/FontCreationTool)
 Run with `.\FontCreationTool.exe`
 ### [Linux](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/Linux/FontCreationTool)
-Run with `chmod +x FontCreationTool-Linux-x64; ./FontCreationTool`
+Run with `chmod +x FontCreationTool; ./FontCreationTool`
 ### [macOS (for Apple Silicon Macs)](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/apple-macos-v1.0.0/FontCreationTool)
-Run with `chmod +x FontCreationTool-macos-arm64; ./FontCreationTool`
+Run `chmod +x FontCreationTool`
+
+Go to System Preferences --> Security & Privacy and allow FontCreationTool.
+
+Finally, run `./FontCreationTool`
 ### [macOS (for Intel Macs)](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/intel-macos-v1.0.0/FontCreationTool)
-Run with `chmod +x FontCreationTool-macos-x64; ./FontCreationTool`
+Run with `chmod +x FontCreationTool; ./FontCreationTool`
+
+Go to System Preferences --> Security & Privacy and allow FontCreationTool.
+
+Finally, run `./FontCreationTool`
 
 ## Usage
 The app generates all the costumes for every character of the charset provided.
