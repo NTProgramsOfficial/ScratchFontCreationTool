@@ -4,17 +4,17 @@ Effortlessly create costumes and kerning/widths values for stamp/clone text engi
 
 ## Installation
 Download a release for your operating system, place a font file beside the executable, and run from the command line.
-### [Windows](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/Linux/FontCreationTool)
+### [Windows](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/tag/windows-v1.0.0)
 Run with `.\FontCreationTool.exe`
-### [Linux](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/Linux/FontCreationTool)
+### [Linux](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/tag/linux-v1.0.0)
 Run with `chmod +x FontCreationTool; ./FontCreationTool`
-### [macOS (for Apple Silicon Macs)](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/apple-macos-v1.0.0/FontCreationTool)
+### [macOS (for Apple Silicon Macs)](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/tag/apple-macos-v1.0.0)
 Run `chmod +x FontCreationTool`
 
 Go to System Preferences → Security & Privacy and allow FontCreationTool.
 
 Finally, run `./FontCreationTool`
-### [macOS (for Intel Macs)](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/intel-macos-v1.0.0/FontCreationTool)
+### [macOS (for Intel Macs)](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/tag/intel-macos-v1.0.0)
 Run with `chmod +x FontCreationTool`
 
 Go to System Preferences → Security & Privacy and allow FontCreationTool.
