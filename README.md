@@ -23,14 +23,14 @@ You can access the kerning/width values by using this algorithm:
 where n is the length of the charset, previousChar and currentChar are the costume numbers of the previous and current character, and size is the size of the text. Note that you would have to adjust these values if the costumes don't start from the beginning.
 
 ## Dependencies
-ScratchFontCreationTool wouldn't have been possible without these dependencies:
+ScratchFontCreationTool wouldn't have been possible without these Node.js packages:
 - opentype.js
 - prompts
 - pkg
 
 ## Build
 1) Install Node.js from https://nodejs.org/
-2) Build using: npm install opentype.js prompts pkg; npx pkg FontCreationTool.js
+2) Build using: `npm install opentype.js prompts pkg; npx pkg FontCreationTool.js`
 
 ## To-do
 1) Generate entire sprites rather than costumes
