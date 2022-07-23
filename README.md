@@ -15,7 +15,7 @@ Go to System Preferences → Security & Privacy and allow FontCreationTool.
 
 Finally, run `./FontCreationTool`
 ### [macOS (for Intel Macs)](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/intel-macos-v1.0.0/FontCreationTool)
-Run with `chmod +x FontCreationTool; ./FontCreationTool`
+Run with `chmod +x FontCreationTool`
 
 Go to System Preferences → Security & Privacy and allow FontCreationTool.
 
