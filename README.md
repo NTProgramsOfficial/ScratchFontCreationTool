@@ -5,13 +5,13 @@ Effortlessly create costumes and kerning/widths values for stamp/clone text engi
 ## Installation
 Download a release for your operating system, place a font file beside the executable, and run from the command line.
 ### [Windows](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/Linux/FontCreationTool)
-Run with `.\FontCreationTool-win-x64.exe`
+Run with `.\FontCreationTool.exe`
 ### [Linux](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/Linux/FontCreationTool)
-Run with `chmod +x FontCreationTool-Linux-x64; ./FontCreationTool-Linux-x64`
+Run with `chmod +x FontCreationTool-Linux-x64; ./FontCreationTool`
 ### [macOS (for Apple Silicon Macs)](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/apple-macos-v1.0.0/FontCreationTool)
-Run with `chmod +x FontCreationTool-macos-arm64; ./FontCreationTool-macos-arm64`
+Run with `chmod +x FontCreationTool-macos-arm64; ./FontCreationTool`
 ### [macOS (for Intel Macs)](https://github.com/NTProgramsOfficial/ScratchFontCreationTool/releases/download/intel-macos-v1.0.0/FontCreationTool)
-Run with `chmod +x FontCreationTool-macos-x64; ./FontCreationTool-macos-x64`
+Run with `chmod +x FontCreationTool-macos-x64; ./FontCreationTool`
 
 ## Usage
 The app generates all the costumes for every character of the charset provided.
