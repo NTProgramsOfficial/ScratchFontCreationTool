@@ -1,0 +1,28 @@
+{
+	"name": "scratchfontcreationtool",
+	"version": "1.0.0",
+	"description": " Effortlessly create costumes and kerning/widths values for stamp/clone text engines on Scratch.",
+	"main": "FontCreationTool.js",
+	"scripts": {
+		"start": "node FontCreationTool.js",
+		"build": "npx pkg FontCreationTool.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NTProgramsOfficial/ScratchFontCreationTool.git"
+	},
+	"keywords": [
+		"scratch"
+	],
+	"author": "NTProgramsOfficial",
+	"license": "GPL",
+	"bugs": {
+		"url": "https://github.com/NTProgramsOfficial/ScratchFontCreationTool/issues"
+	},
+	"homepage": "https://github.com/NTProgramsOfficial/ScratchFontCreationTool#readme",
+	"dependencies": {
+		"opentype.js": "^1.3.4",
+		"pkg": "^5.8.1",
+		"prompts": "^2.4.2"
+	}
+}
